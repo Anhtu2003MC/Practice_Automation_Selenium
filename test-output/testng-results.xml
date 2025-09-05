@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-08T08:32:47Z" name="Default suite" finished-at="2025-06-08T08:33:18Z" duration-ms="30336">
+    <groups>
+      <group name="regression">
+        <method signature="PracticePageTests.testSuggestionBox()[pri:2, instance:testng1.PracticePageTests@2a8448fa]" name="testSuggestionBox" class="testng1.PracticePageTests"/>
+        <method signature="PracticePageTests.testDropdown()[pri:4, instance:testng1.PracticePageTests@2a8448fa]" name="testDropdown" class="testng1.PracticePageTests"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="PracticePageTests.testCheckbox()[pri:3, instance:testng1.PracticePageTests@2a8448fa]" name="testCheckbox" class="testng1.PracticePageTests"/>
+        <method signature="PracticePageTests.testRadioButton()[pri:1, instance:testng1.PracticePageTests@2a8448fa]" name="testRadioButton" class="testng1.PracticePageTests"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2025-06-08T08:32:47Z" name="Default test" finished-at="2025-06-08T08:33:18Z" duration-ms="30336">
+      <class name="testng1.PracticePageTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testng1.PracticePageTests@2a8448fa]" started-at="2025-06-08T14:02:47Z" name="setup" finished-at="2025-06-08T14:03:12Z" duration-ms="24410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testRadioButton()[pri:1, instance:testng1.PracticePageTests@2a8448fa]" started-at="2025-06-08T14:03:12Z" name="testRadioButton" finished-at="2025-06-08T14:03:13Z" duration-ms="1595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRadioButton -->
+        <test-method signature="testCheckbox()[pri:3, instance:testng1.PracticePageTests@2a8448fa]" started-at="2025-06-08T14:03:13Z" name="testCheckbox" finished-at="2025-06-08T14:03:14Z" duration-ms="713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckbox -->
+        <test-method signature="testDropdown()[pri:4, instance:testng1.PracticePageTests@2a8448fa]" started-at="2025-06-08T14:03:14Z" name="testDropdown" finished-at="2025-06-08T14:03:15Z" duration-ms="557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDropdown -->
+        <test-method signature="testSuggestionBox()[pri:2, instance:testng1.PracticePageTests@2a8448fa]" started-at="2025-06-08T14:03:15Z" name="testSuggestionBox" finished-at="2025-06-08T14:03:15Z" depends-on-methods="testng1.PracticePageTests.testRadioButton" duration-ms="657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSuggestionBox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testng1.PracticePageTests@2a8448fa]" started-at="2025-06-08T14:03:15Z" name="tearDown" finished-at="2025-06-08T14:03:18Z" duration-ms="2254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testng1.PracticePageTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
