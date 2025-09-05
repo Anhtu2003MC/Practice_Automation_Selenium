@@ -70,13 +70,16 @@ Version Control: GitHub
 
 ---
 
-##▶️ How to Run Tests
+## ▶️ How to Run Tests
 
 
 Clone the repo:
 ```
 git clone https://github.com/your-username/Practice_Automation_Selenium.git
 ```
+
+---
+
 🙌 Acknowledgements
 
 This repository is purely for learning and practice purposes.
