@@ -67,8 +67,12 @@ Build Tool: Maven
 Reports: Extent Reports, Cucumber Reports
 
 Version Control: GitHub
+
 ---
+
 ##▶️ How to Run Tests
+
+
 Clone the repo:
 ```
 git clone https://github.com/your-username/Practice_Automation_Selenium.git
